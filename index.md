@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Header 1
+## Header 2
+### Header 3
+
+## Paragraphe
 
 You can use the [editor on GitHub](https://github.com/labir/yatinzo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[Link](url) and ![Image](src)
 
 ### Markdown
 
